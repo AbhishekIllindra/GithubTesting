@@ -18,12 +18,13 @@
 {
     [super viewDidLoad];
     
-    NSLog(@"testing github");
+  
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
 - (void)didReceiveMemoryWarning
 {
+      NSLog(@"testing github");
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
